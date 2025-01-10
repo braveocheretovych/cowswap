@@ -289,5 +289,4 @@ In case of problems with the service worker cache you force a reset using
 # 📚 Technical Documentation
 
 1. [Oveall Architecture](docs/architecture-overview.md)
-2. [Amounts formatting](apps/cowswap-frontend/src/utils/amountFormat/README.md)
-3. [ABIs](libs/abis/README.md)
+2. [ABIs](libs/abis/README.md)
